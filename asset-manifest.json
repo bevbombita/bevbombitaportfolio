@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bevbombitaportfolio/static/css/main.e5148484.css",
-    "main.js": "/bevbombitaportfolio/static/js/main.06fc3a3a.js",
+    "main.js": "/bevbombitaportfolio/static/js/main.d12d9198.js",
     "static/css/64.bba8fa55.chunk.css": "/bevbombitaportfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.359bd078.chunk.js": "/bevbombitaportfolio/static/js/64.359bd078.chunk.js",
     "static/js/57.6fed8b7e.chunk.js": "/bevbombitaportfolio/static/js/57.6fed8b7e.chunk.js",
@@ -19,13 +19,13 @@
     "index.html": "/bevbombitaportfolio/index.html",
     "static/media/talksCardBack.svg": "/bevbombitaportfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.e5148484.css.map": "/bevbombitaportfolio/static/css/main.e5148484.css.map",
-    "main.06fc3a3a.js.map": "/bevbombitaportfolio/static/js/main.06fc3a3a.js.map",
+    "main.d12d9198.js.map": "/bevbombitaportfolio/static/js/main.d12d9198.js.map",
     "64.bba8fa55.chunk.css.map": "/bevbombitaportfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.359bd078.chunk.js.map": "/bevbombitaportfolio/static/js/64.359bd078.chunk.js.map",
     "57.6fed8b7e.chunk.js.map": "/bevbombitaportfolio/static/js/57.6fed8b7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5148484.css",
-    "static/js/main.06fc3a3a.js"
+    "static/js/main.d12d9198.js"
   ]
 }
