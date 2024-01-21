@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/bevbombitaportfolio/static/css/main.be0b04df.css",
-    "main.js": "/bevbombitaportfolio/static/js/main.e2ae4790.js",
+    "main.css": "/bevbombitaportfolio/static/css/main.e5148484.css",
+    "main.js": "/bevbombitaportfolio/static/js/main.06fc3a3a.js",
     "static/css/64.bba8fa55.chunk.css": "/bevbombitaportfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.359bd078.chunk.js": "/bevbombitaportfolio/static/js/64.359bd078.chunk.js",
     "static/js/57.6fed8b7e.chunk.js": "/bevbombitaportfolio/static/js/57.6fed8b7e.chunk.js",
+    "static/media/BBOMBITA-CERTIFICATES.pdf": "/bevbombitaportfolio/static/media/BBOMBITA-CERTIFICATES.f375cad93011bed58657.pdf",
     "static/media/Montserrat-Regular.ttf": "/bevbombitaportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/cal.png": "/bevbombitaportfolio/static/media/cal.e6f0c708fa3270d47a65.png",
     "static/media/Agustina.woff": "/bevbombitaportfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -17,14 +18,14 @@
     "static/media/skill.svg": "/bevbombitaportfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/bevbombitaportfolio/index.html",
     "static/media/talksCardBack.svg": "/bevbombitaportfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.be0b04df.css.map": "/bevbombitaportfolio/static/css/main.be0b04df.css.map",
-    "main.e2ae4790.js.map": "/bevbombitaportfolio/static/js/main.e2ae4790.js.map",
+    "main.e5148484.css.map": "/bevbombitaportfolio/static/css/main.e5148484.css.map",
+    "main.06fc3a3a.js.map": "/bevbombitaportfolio/static/js/main.06fc3a3a.js.map",
     "64.bba8fa55.chunk.css.map": "/bevbombitaportfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.359bd078.chunk.js.map": "/bevbombitaportfolio/static/js/64.359bd078.chunk.js.map",
     "57.6fed8b7e.chunk.js.map": "/bevbombitaportfolio/static/js/57.6fed8b7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be0b04df.css",
-    "static/js/main.e2ae4790.js"
+    "static/css/main.e5148484.css",
+    "static/js/main.06fc3a3a.js"
   ]
 }
